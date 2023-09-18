@@ -1,9 +1,12 @@
-import { Image, StyleSheet, Text, View, ImageBackground } from "react-native";
+import { Image, StyleSheet, Text, View, ImageBackground,Pressable } from "react-native";
 import React from 'react'
+import { Link } from "expo-router";
 
 const UserCard = ({user}) => {
   return (
-    <ImageBackground 
+    <Link href={`/user/${user.id}`} asChild>
+      <Pressable>
+      <ImageBackground 
     source={{uri:user.coverImage}}
     style={styles.userCard}>
 {/* image */}
@@ -17,6 +20,8 @@ style={styles.userImage}
 <Text style={styles.handleStyle}>@{user.handle}</Text>
 </View>
     </ImageBackground>
+      </Pressable>
+    </Link>
   )
 }
 
@@ -41,7 +46,8 @@ const styles = StyleSheet.create({
         marginRight:30
           },
           overlay:{
-         ...StyleSheet.absoluteFillObject
+         ...StyleSheet.absoluteFillObject,
+         backgroundColor:"rgba(0, 0, 0, 0.5)"
           },
           nameStyle:{
          color:"white",

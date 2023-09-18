@@ -10,6 +10,7 @@ export default function Page() {
       renderItem={({item}) => (
         <UserCard user={item}/>
       )}
+      showsVerticalScrollIndicator={false}
       />
     
     </View>

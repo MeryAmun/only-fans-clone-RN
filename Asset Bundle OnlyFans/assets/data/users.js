@@ -7,7 +7,7 @@ export default [
       'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/elon.png',
     name: 'Elon',
     handle: 'elon',
-    bio: 'hello',
+    bio: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis aperiam, maxime dolores recusandae, voluptatibus aut consequuntur eum, rem laboriosam odit quisquam. Accusantium, fuga ipsam ab ad quasi ipsa? Perferendis, necessitatibus expedita corporis iure blanditiis nihil soluta nam natus quia iusto error dolore, quos eius dignissimos? Nisi omnis beatae ratione dolore!',
     subscriptionPrice: 0,
   },
   {
@@ -18,7 +18,7 @@ export default [
       'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/jeff.jpeg',
     name: 'Jeff',
     handle: 'jeff',
-    bio: 'hello',
+    bio: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis aperiam, maxime dolores recusandae, voluptatibus aut consequuntur eum, rem laboriosam odit quisquam. Accusantium, fuga ipsam ab ad quasi ipsa? Perferendis, necessitatibus expedita corporis iure blanditiis nihil soluta nam natus quia iusto error dolore, quos eius dignissimos? Nisi omnis beatae ratione dolore!',
     subscriptionPrice: 4.99,
   },
   {
@@ -29,7 +29,7 @@ export default [
       'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/biahaze.jpg',
     name: 'Biahaze',
     handle: 'biahaze',
-    bio: 'hello',
+    bio: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis aperiam, maxime dolores recusandae, voluptatibus aut consequuntur eum, rem laboriosam odit quisquam. Accusantium, fuga ipsam ab ad quasi ipsa? Perferendis, necessitatibus expedita corporis iure blanditiis nihil soluta nam natus quia iusto error dolore, quos eius dignissimos? Nisi omnis beatae ratione dolore!',
     subscriptionPrice: 2.99,
   },
   {
@@ -40,7 +40,7 @@ export default [
       'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/elon.png',
     name: 'Elon',
     handle: 'elon2',
-    bio: 'hello',
+    bio: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis aperiam, maxime dolores recusandae, voluptatibus aut consequuntur eum, rem laboriosam odit quisquam. Accusantium, fuga ipsam ab ad quasi ipsa? Perferendis, necessitatibus expedita corporis iure blanditiis nihil soluta nam natus quia iusto error dolore, quos eius dignissimos? Nisi omnis beatae ratione dolore!',
     subscriptionPrice: 1.99,
   },
   {
@@ -51,7 +51,7 @@ export default [
       'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/graham.jpg',
     name: 'Graham',
     handle: 'graham',
-    bio: 'hello',
+    bio: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis aperiam, maxime dolores recusandae, voluptatibus aut consequuntur eum, rem laboriosam odit quisquam. Accusantium, fuga ipsam ab ad quasi ipsa? Perferendis, necessitatibus expedita corporis iure blanditiis nihil soluta nam natus quia iusto error dolore, quos eius dignissimos? Nisi omnis beatae ratione dolore!',
     subscriptionPrice: 0,
   },
   {
@@ -62,7 +62,7 @@ export default [
       'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/jeff.jpeg',
     name: 'Jeff',
     handle: 'jeff2',
-    bio: 'hello',
+    bio: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis aperiam, maxime dolores recusandae, voluptatibus aut consequuntur eum, rem laboriosam odit quisquam. Accusantium, fuga ipsam ab ad quasi ipsa? Perferendis, necessitatibus expedita corporis iure blanditiis nihil soluta nam natus quia iusto error dolore, quos eius dignissimos? Nisi omnis beatae ratione dolore!',
     subscriptionPrice: 3.99,
   },
   {
@@ -73,7 +73,7 @@ export default [
       'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg',
     name: 'Vadim',
     handle: 'vadim',
-    bio: 'hello',
+    bio: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis aperiam, maxime dolores recusandae, voluptatibus aut consequuntur eum, rem laboriosam odit quisquam. Accusantium, fuga ipsam ab ad quasi ipsa? Perferendis, necessitatibus expedita corporis iure blanditiis nihil soluta nam natus quia iusto error dolore, quos eius dignissimos? Nisi omnis beatae ratione dolore!',
     subscriptionPrice: 1.99,
   },
   {
@@ -84,7 +84,7 @@ export default [
       'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim1.JPG',
     name: 'Vadim',
     handle: 'vadim2',
-    bio: 'hello',
+    bio: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis aperiam, maxime dolores recusandae, voluptatibus aut consequuntur eum, rem laboriosam odit quisquam. Accusantium, fuga ipsam ab ad quasi ipsa? Perferendis, necessitatibus expedita corporis iure blanditiis nihil soluta nam natus quia iusto error dolore, quos eius dignissimos? Nisi omnis beatae ratione dolore!',
     subscriptionPrice: 0,
   },
 ];
